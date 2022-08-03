@@ -11,11 +11,5 @@ with the help of Edamam API for pulling the recipes
 -  Second button is to link it to the creators recipe (Website)
 
 
-## To Run:
-Link in the about or go to [here](https://aimireal.github.io/ReactRecipeApp/)
 
-## To-Do (Low priority improvements):
-- Flesh out the quick view for ingredients to show better measures
-- Design elements such as a website theme, and new logos
-- Small bug where icons are not displaying in react page build on initialisation
-  - Files present, unsure why it is not working
+
