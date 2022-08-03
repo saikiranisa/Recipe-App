@@ -22,6 +22,9 @@ use this command when it shows to react-scripts not found or asked to install sc
 install the react-scripts of the above version to run the code.
 i have used version @4.0.1 
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/88225022/182635081-3791ff19-1fdf-48d3-a1e6-efe336f795d6.png">
+
+
 
 
 
