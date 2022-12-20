@@ -1,6 +1,6 @@
 # Recipe App
 A recipe browser web application using reactJS.
-with the help of Edamam API for pulling the different recipes that user haver searched for.
+with the help of Edamam API for pulling the different recipes that user have searched for.
 
 ## API documentation for recepie app
  https://developer.edamam.com/edamam-docs-recipe-api
